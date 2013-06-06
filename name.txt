@@ -10,6 +10,11 @@ magento 1.6.1.0
 
 wwwwwwww
 
+<<<<<<< HEAD
+=======
+qqqqqqqqqqqq
+
+>>>>>>> origin/master
 
 
 
